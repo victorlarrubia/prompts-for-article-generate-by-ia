@@ -75,4 +75,6 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+[Victor Larrubia](https://github.com/victorlarrubia)
+
+Esse conteúdo foi construido com base no material de [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
