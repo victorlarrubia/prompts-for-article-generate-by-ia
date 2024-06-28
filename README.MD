@@ -54,4 +54,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 [Victor Larrubia](https://github.com/victorlarrubia)
 
-Esse conteúdo foi construido com base no material de [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
+Esse conteúdo foi construido com base no material de [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia)
